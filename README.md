@@ -1,2 +1,2 @@
-# chat-app-project
+# my-chat-app
 Chat application
